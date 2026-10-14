@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="refresh" content="0; url=kim.html">
+  <title>Kimberley's Birthday Website</title>
+</head>
+<body>
+  <p>Opening Kimberley's birthday website...</p>
+  <a href="kim.html">Tap here if you are not redirected.</a>
+</body>
+</html>
